@@ -7,13 +7,13 @@ https://www.policenews.act.gov.au/crime-statistics-and-data/crime-statistics
 
 This project consisted of the following:
 
-**Data wrangling** The original csv files are provided in this repository as are the wrangled files. Wrangling was done in excel.
+**Data wrangling:** The original csv files are provided in this repository as are the wrangled files. Wrangling was done in excel.
 Additional population data was obtained from the ABS website for the 2021 census.
 Coordinate data for suburbs and districtis were found on an ACT government website. Many coordinates have been modifed by observing them in google maps and choosing an appropriate set of coordinates.
 
-**Power query** Many steps were taken within power query, they can be observed in the pbix files.
+**Power query:** Many steps were taken within power query, they can be observed in the pbix files.
 
-**Power BI** Many measures were created to calculate certain numbers such as 'crimes per month' and crimes per annum per 1000 residents'. 
+**Power BI:** Many measures were created to calculate certain numbers such as 'crimes per month' and crimes per annum per 1000 residents'. 
 
 ### ACT Crime Stats June 2022 Dataset
 
