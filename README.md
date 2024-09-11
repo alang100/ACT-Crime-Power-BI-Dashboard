@@ -13,7 +13,7 @@ Coordinate data for suburbs and districtis were found on an ACT government websi
 
 A Python Jupyter notebook script has been developed to automatically wrangle the XLS file from the crime-statistics website. The input files are 'Website Stats Monthly Download.xlsx' and 'District Population.xlsx' which contains the district population from the 2021 census.  
 
-The output file created is 'Website Stats Monthly Wrangled.xlsx' which is the file that is directly loaded by the 2024 ACT Crime STats dashboard.
+The output file created is 'Website Stats Monthly Wrangled.xlsx' which is the file that is directly loaded by the 2024 ACT Crime Stats dashboard.
 
 **Power query:** Many steps were taken within power query, they can be observed in the pbix files.
 
