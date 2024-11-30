@@ -4,6 +4,7 @@ I have used  the ACT crime dataset from a university project to create a Power B
 The source of the datasets are the ACT polive website
 https://www.policenews.act.gov.au/crime-statistics-and-data/crime-statistics
 
+I do not have a paid subscription for Power BI, so the dashboard cannot be published. Please refer to the attached PDF for screenshots or download the PBIX file to see a demonstration.
 
 This project consisted of the following:
 
