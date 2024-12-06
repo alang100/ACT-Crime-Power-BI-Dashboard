@@ -8,7 +8,6 @@ Originally, the dataset was released quarterly and detailed crime by suburb. Thi
 
 Having looked at the police site again in December 2024. That format is no longer available on the website. I did find the original format available for download at:
 
-[https://www.data.act.gov.au/Justice-Safety-and-Emergency/ACT-Crime-Statistics/2egm-dieb/about_data]
 https://www.data.act.gov.au/Justice-Safety-and-Emergency/ACT-Crime-Statistics/2egm-dieb/about_data
 
 Future work on this project will be to write a Python script to wrangle the data into a suitable format for Power BI, merge it with population data and update the dashboard.
