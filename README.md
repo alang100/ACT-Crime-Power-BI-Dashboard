@@ -3,7 +3,7 @@ I have used  the ACT crime dataset from a university project to create a Power B
 
 I do not have a paid subscription for Power BI, so the dashboard cannot be published. Please refer to the attached PDF files for screenshots and major insights or download the PBIX file to see a demonstration.
 
-The source of the datasets are the ACT police website
+The source of the datasets is the ACT police website
 [ACT Crime Statistics](https://www.policenews.act.gov.au/crime-statistics-and-data/crime-statistics)
 
 Originally, the dataset was released quarterly and detailed crime by suburb. This was the dataset for the June 2022 dashboard. When I started making this dashboard, that format was no longer available. The newer format was monthly crime statistics released by district or for the entire city of Canberra only. With this dataset I created the August 2024 dashboard.
