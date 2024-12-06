@@ -1,6 +1,8 @@
 ## ACT Crime Power BI Dashboard
 I have used  the ACT crime dataset from a university project to create a Power BI dashboard for ACT crime. Two dashboards were made for the two datasets.
 
+I do not have a paid subscription for Power BI, so the dashboard cannot be published. Please refer to the attached PDF files for screenshots and major insights or download the PBIX file to see a demonstration.
+
 The source of the datasets are the ACT police website
 [ACT Crime Statistics](https://www.policenews.act.gov.au/crime-statistics-and-data/crime-statistics)
 
@@ -11,8 +13,6 @@ Having looked at the police site again in December 2024. That format is no longe
 [Open Data Portal - ACT Crime Statistics](https://www.data.act.gov.au/Justice-Safety-and-Emergency/ACT-Crime-Statistics/2egm-dieb/about_data) (You may have to copy the link and paste it into your browser).
 
 Future work on this project will be to write a Python script to wrangle the data into a suitable format for Power BI, merge it with population data and update the dashboard.
-
-I do not have a paid subscription for Power BI, so the dashboard cannot be published. Please refer to the attached PDF for screenshots or download the PBIX file to see a demonstration.
 
 This project consisted of the following:
 
