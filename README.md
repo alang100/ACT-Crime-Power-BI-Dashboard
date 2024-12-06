@@ -1,8 +1,16 @@
 ## ACT Crime Power BI Dashboard
 I have used  the ACT crime dataset from a university project to create a Power BI dashboard for ACT crime. Two dashboards were made for the two datasets.
 
-The source of the datasets are the ACT polive website
+The source of the datasets are the ACT police website
 https://www.policenews.act.gov.au/crime-statistics-and-data/crime-statistics
+
+Originally, the dataset was released quarterly and detailed crime by suburb. This was the dataset for the June 2022 dashboard. When I started making this dashboard, that format was no longer available. The newer format was monthly crime statistics released by district or for the entire city of Canberra only. With this dataset I created the August 2024 dashboard.
+
+Having looked at the police site again in December 2024. That format is no longer available on the website. I did find the original format available for download at:
+
+https://www.data.act.gov.au/Justice-Safety-and-Emergency/ACT-Crime-Statistics/2egm-dieb/about_data
+
+Future work on this project will be to write a Python script to wrangle the data into a suitable format for Power BI, merge it with population data and update the dashboard.
 
 I do not have a paid subscription for Power BI, so the dashboard cannot be published. Please refer to the attached PDF for screenshots or download the PBIX file to see a demonstration.
 
@@ -10,7 +18,7 @@ This project consisted of the following:
 
 **Data wrangling:** The original csv files are provided in this repository as are the wrangled files. Wrangling for the 2022 dataset was done in excel.
 Additional population data was obtained from the ABS website for the 2021 census.
-Coordinate data for suburbs and districtis were found on an ACT government website. Many coordinates have been modifed by observing them in google maps and choosing an appropriate set of coordinates.  
+Coordinate data for suburbs and districts were found on an ACT government website. Many coordinates have been modifed by observing them in google maps and choosing an appropriate set of coordinates.  
 
 A Python Jupyter notebook script has been developed to automatically wrangle the XLS file from the crime-statistics website. The input files are 'Website Stats Monthly Download.xlsx' and 'District Population.xlsx' which contains the district population from the 2021 census.  
 
@@ -31,7 +39,7 @@ The two Location tabs are the same except for the map format. Ideally, I would h
 The available dataset after June 2022 could no longer be broken down by suburb.
 
 
-### ACT Crime Stats June 2024 Dataset
+### ACT Crime Stats August 2024 Dataset
 This format of the dataset has been available since July 2022.
 Incident numbers are given for every month starting from January 2014. 
 In the Date slicers, the date is the last day of the month. 
