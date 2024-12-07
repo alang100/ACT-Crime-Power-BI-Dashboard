@@ -47,6 +47,8 @@ There are statistics for 23 infringement types.
 Statistics are no longer given by suburb, but rather by district. 
 Statistics of only 13 infringement types are broken down by district.
 
+View screenshots and main insights here: [ACT Crimes August 2024 Insights](ACT%20Crime%20Stats%20August%202024%20-%20Insights.pdf)
+
 
 
 
