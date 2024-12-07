@@ -40,6 +40,8 @@ Statistics are given by suburb, offering detailed granularity for the maps.
 The two Location tabs are the same except for the map format. Ideally, I would have liked to combine the two formats(map 1 maps and map 2 polygons, but that is not possible in the free version of Power BI.
 The available dataset after June 2022 could no longer be broken down by suburb.
 
+View screenshots and main insights here: [ACT Crimes June 2022 Insights](ACT%20Crime%20Stats%June%202022%20-%20Insights.pdf)
+
 ---
 
 ### ACT Crime Stats August 2024 Dataset
