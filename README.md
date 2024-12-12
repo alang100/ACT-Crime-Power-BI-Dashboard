@@ -1,6 +1,8 @@
 ## ACT Crime Power BI Dashboard
 I have used  the ACT crime dataset from a university project to create a Power BI dashboard for ACT crime. Two dashboards were made for the two datasets.
 
+The focus of this project is to wrangle a real-world dataset, transform it into a usable dataset for visulization in power BI and reveal significant insights into crime in Canberra. This involved using Python, Excel, and Power BI.
+
 I do not have a paid subscription for Power BI, so the dashboard cannot be published. Please refer to the attached PDF files for screenshots and major insights or download the PBIX file to see a demonstration.
 
 The source of the datasets is the ACT police website
