@@ -4,8 +4,10 @@ I have used  the ACT crime dataset from a university project to create a Power B
 This project focuses on wrangling a real-world dataset, transforming it into a format suitable for visualization in Power BI, and uncovering significant insights into crime in Canberra. The process utilized Python, Excel, and Power BI to achieve this.
 
 I do not have a paid subscription for Power BI, so the dashboard cannot be published. Please refer to the attached PDF files for screenshots and major insights or download the PBIX file to see a demonstration.  
-- [ACT Crimes June 2022 Insights](ACT%20Crime%20Stats%20June%202022%20-%20Insights.pdf)
-- [ACT Crimes August 2024 Insights](ACT%20Crime%20Stats%20August%202024%20-%20Insights.pdf)
+- [ACT Crimes June 2022 Insights](ACT%20Crime%20Stats%20June%202022%20-%20Insights.pdf) 2022 Crimes dataset screenshots and insights.
+- [ACT Crimes August 2024 Insights](ACT%20Crime%20Stats%20August%202024%20-%20Insights.pdf) 2024 Crimes dataset screenshots and insights.
+- - [ACT Crimes June 2022 Insights](ACT%20Crime%20Stats%20June%202022%20-%20Insights.pdf) 2022 Crimes dataset screenshots and insights.
+- [ACT Crimes August 2024 Insights](ACT%20Crime%20Stats%20August%202024%20-%20Insights.pdf) 2024 Crimes dataset screenshots and insights.
 
 The source of the datasets is the ACT police website
 [ACT Crime Statistics](https://www.policenews.act.gov.au/crime-statistics-and-data/crime-statistics)
