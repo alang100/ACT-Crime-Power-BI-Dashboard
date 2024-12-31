@@ -10,6 +10,8 @@ I do not have a paid subscription for Power BI, so the dashboard cannot be publi
 - [ACT Crimes August 2024 Power BI Dashboard](ACT%20Crime%20Stats%202024.pbix)
 - [ACT 2022 Crimes Dataset Conversion Script](ACT%20Crimes%20Dataset%20Conversion.ipynb)
 
+*Note: To download a file, click the link and then use the download button on the top right of the GitHub interface.*
+
 The source of the datasets is the ACT police website
 [ACT Crime Statistics](https://www.policenews.act.gov.au/crime-statistics-and-data/crime-statistics)
 
