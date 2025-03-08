@@ -19,7 +19,7 @@ Originally, the dataset was released quarterly and detailed crime by suburb. Thi
 
 The original quarterly format with crime statistics by suburb is now available at:
 
-[Open Data Portal - ACT Crime Statistics](https://www.data.act.gov.au/Justice-Safety-and-Emergency/ACT-Crime-Statistics/2egm-dieb/about_data) (You may have to copy the link and paste it into your browser).
+[Open Data Portal - ACT Crime Statistics](https://www.data.act.gov.au/Justice-Safety-and-Emergency/ACT-Crime-Statistics/2egm-dieb/about_data) (You may have to copy the link address and paste it into a new browser).
 
 Future work on this project will be to write a Python script to wrangle the data from this file into a suitable format for Power BI, merge it with population data and update the dashboard.
 
