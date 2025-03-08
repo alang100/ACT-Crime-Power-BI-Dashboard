@@ -13,7 +13,7 @@ I do not have a paid subscription for Power BI, so the dashboard cannot be publi
 *Note: To download a file, click the link and then use the download button on the top right of the GitHub interface.*
 
 The source of the datasets is the ACT police website
-[ACT Crime Statistics](https://www.policenews.act.gov.au/crime-statistics-and-data/crime-statistics)
+[ACT Crime Statistics]([https://www.policenews.act.gov.au/crime-statistics-and-data/crime-statistics](https://police.act.gov.au/crime-statistics))
 
 Originally, the dataset was released quarterly and detailed crime by suburb. This was the dataset for the June 2022 dashboard. When I started making this dashboard, that format was no longer available. The newer format was monthly crime statistics released by district or for the entire city of Canberra only. With this dataset I created the August 2024 dashboard.
 
